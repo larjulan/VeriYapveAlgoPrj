@@ -1,6 +1,8 @@
 # Veri Yapıları ve Algoritmalar - Projeler Bölümü
-Aşağıda patika.dev üzerinde yer alan Veri Yapıları ve Algoritmalar eğitiminin projeler bölümündeki soruların çözümleri yer almaktadır.  
 
+![PatikaGorsel](https://camo.githubusercontent.com/403be124e5485a48a23902ac0530f2f2090c0ea07bb5095e8dbe8c5df8fb58df/68747470733a2f2f6170702e706174696b612e6465762f73746174696346696c65732f6e6577506174696b614c6f676f2e737667)
+
+Aşağıda patika.dev üzerinde yer alan Veri Yapıları ve Algoritmalar eğitiminin projeler bölümündeki soruların çözümleri yer almaktadır.  
 - Selection Sort Projesi
 - Merge Sort Projesi
 - Binary Search Tree Projesi
